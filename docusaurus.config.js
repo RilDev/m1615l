@@ -17,18 +17,12 @@ module.exports = {
       },
       items: [
         {
-          to: 'languages/',
-          activeBasePath: 'languages',
+          to: 'docs/',
+          activeBasePath: 'docs',
           label: 'Languages',
           position: 'left',
         },
-        {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
-        },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -99,11 +93,17 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        languages: {
+          sidebarPath: require.resolve('./sidebars.js'),
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/RilDev/m1615l/edit/master/',
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/RilDev/m1615l/edit/master/',
         },
         blog: {
           showReadingTime: true,
