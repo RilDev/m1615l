@@ -27,8 +27,7 @@ God | Dieu | Jésus lui répondit: «Tu aimeras le Seigneur, ton Dieu, de tout t
 altar | (un) autel | laisse ton offrande devant l'autel et va d'abord te réconcilier avec ton frère, puis viens présenter ton offrande. [Matthieu 5:24]
 angel | (un) ange | Je vis ensuite un [autre] ange voler haut dans le ciel. Il avait un Evangile éternel pour l'annoncer aux habitants de la terre, à toute nation, à toute tribu, à toute langue et à tout peuple. [Apocalypse 14:6]
 ark | (une) arche | un mâle et une femelle entrèrent dans l'arche avec Noé, deux par deux, comme Dieu l'avait ordonné à Noé. [Genèse 7:9]
-arrow | (une) flèche | Tu ne redouteras ni les terreurs de la nuit
-ni la flèche qui vole durant le jour, [Psaumes 91:5]
+arrow | (une) flèche | Tu ne redouteras ni les terreurs de la nuit ni la flèche qui vole durant le jour, [Psaumes 91:5]
 axe | (une) hache | Déjà la hache est mise à la racine des arbres; tout arbre qui ne produit pas de bons fruits sera donc coupé et jeté au feu. [Matthieu 3:10]
 baptism | (un) baptême | Alors Paul dit: «Jean a baptisé du baptême de repentance, en disant au peuple de croire en celui qui venait après lui, c'est-à-dire en Jésus [le Messie].» [Actes 19:4]
 beast | (une) bête | Il faut ici de la sagesse. Que celui qui a de l'intelligence déchiffre le nombre de la bête, car c'est un nombre d'homme. Son nombre est 666. [Apocalypse 13:18]
